@@ -35,7 +35,7 @@ The CFO responsible for this plan had a huge difficulty to carry it out because 
 <br>
 
 # 3.0 The solution
-The delivered solution was a Telegram bot. 
+The solution found was to use Data Science to perform a more accurate predictive analysis than the baseline and deliver the solution in a Telegram bot.
 
 The user just needed to send the store number and the bot would answer the predicted **total sales that the store would made by the end of the next six weeks**.
 
