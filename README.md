@@ -26,8 +26,7 @@ Based on the research insights, initiatives have been outlined such as:
 
 - Redesign the entire training program for store managers and attendants.
 - Review the entire pricing strategy.
-- Make partnerships with chains of coffee shops and bakeries.
-- Deploy self-service totems to customers who preferred to shop without the assistance of attendants.
+- Refurbish stores for a better customer experience.
 
 However, to carry out all these initiatives, well-structured financial planning with a minimum margin of error must be made so that the company wouldn't waste money during the implementation of the initiatives.
 
