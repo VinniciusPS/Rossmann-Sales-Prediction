@@ -6,15 +6,12 @@
 
 # 1.0 The context
 
-In a quarterly report meeting at Rossmann, the directors board identified an increase in competitors stores openings.
+In a commercial meeting, it was verified that there was an increase in the number of local competitors. To prevent competitors from gaining market share, the representatives decided that it would be relevant to analyze the purchase data, in order to better understand the following aspects:
 
-In order to prevent the competitors from taking part of the market share, the C-Level board decided to conduct an on-site survey with all customers who were shopping at the stores to understand the following points:
-
-- Why did the customer preferred to buy from Rossmann and not from the competition?
-- From 0 to 10, how satisfied was the customer with the Rossmann store's products and service? Why? (CSAT)
-- Why were there certain products that the customer preferred to buy from the competition and not from Rossmann?
-- What were, in the customers opinions, the three strengths and three weaknesses from Rossmann’s stores? Why?
-- From 0 to 10, how much would the customer recommend Rossmann to a friend or family member? Why? (NPS)
+- What makes customers buy from Rossmann and not the competition?
+- Why does the customer prefer to buy certain products from the competition and not from Rossmann?
+- What are Rossmann's strengths and weaknesses and why?
+- From 0 to 10, how much would the customer recommend Rossmann to a friend or family member? Why?
 
 After the customer survey, the following insights were identified:
 
